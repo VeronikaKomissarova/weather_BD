@@ -21,10 +21,6 @@ class weather:
         else:
             return "Error" + data['cod']
 
-'''URL = 'http://api.openweathermap.org/data/2.5/forecast'
-APPID = '58a889be127f7f70338ecc32ab86f89b'
-
-print(weather(URL,APPID).get_data())'''
 
 
 
